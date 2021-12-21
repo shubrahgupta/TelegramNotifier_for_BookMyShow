@@ -1,3 +1,4 @@
-bot_token = "5071199859:AAHnEY1bZVebld9BWo_U70kPLOlWpA-N0cY"
-bot_user_name = "chull_bot"
-URL = "https://chull-hull.herokuapp.com/"
+#Add the token obtained from @BotFather, username and after hosting on a platform, add the url
+bot_token = "" 
+bot_user_name = ""
+URL = ""
