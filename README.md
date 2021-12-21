@@ -4,4 +4,3 @@ I made a telegram bot, hosted it on heroku, scraped the Book My Show website for
 
 Used https://www.toptal.com/python/telegram-bot-tutorial-python for making bots and hosting them <br />
 Used https://realpython.com/beautiful-soup-web-scraper-python/ for learning web scraping <br />
-Status of working of the bot can be checked on https://chull-hull.herokuapp.com/ <br />
